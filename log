@@ -1,5 +1,13 @@
 DATE  DATA NAME           EXTRA                    END
 
+18Q01 .095 School         
+18P14 .482 Weekly         
+18P13                     
+18P12                     
+18P11                     
+18P10                     
+18P09                     
+18P08                     
 18P07                     
 18P06                     
 18P05 .481 Weekly         
@@ -53,5 +61,9 @@ DATE  DATA NAME           EXTRA                    END
 18L13 !384 Hlupuplok      Glyph update
 18L12 
 18L11 .323 Doodle         
-18L10 
-18L09 
+18L10                     
+18L09                     
+
+17S14 ^099 Xavoneir       Initialization
+
+17N03 ^097 AX             Anime Expo 2017
