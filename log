@@ -1,5 +1,6 @@
 DATE  DATA NAME           EXTRA                    END
 
+18R01 .053 Xavoneir       
 18Q14 .054 Xavoneir       
 18Q13 .485 Weekly         
 18Q12 .154 Polyverse      
@@ -8,13 +9,13 @@ DATE  DATA NAME           EXTRA                    END
 18Q09 .453 Doodle         
 18Q08                     
 18Q07 .142 Polyverse      
-18Q06 .483 Weekly         
+18Q06 !483 Weekly         
 18Q05 .382 Attire         
 18Q04                     
 18Q03                     
 18Q02 .162 Roundup        
 18Q01 ^095 School         2018-19 Day 1
-18P14 .482 Weekly         
+18P14 !482 Weekly         
 18P13                     
 18P12                     
 18P11                     
@@ -23,7 +24,7 @@ DATE  DATA NAME           EXTRA                    END
 18P08                     
 18P07                     
 18P06                     
-18P05 .481 Weekly         
+18P05 !481 Weekly         
 18P04                     
 18P03 .253 Xevience       
 18P02 .221 Xevience       
@@ -35,7 +36,7 @@ DATE  DATA NAME           EXTRA                    END
 18O10 .096 Sail           
 18O09 .096 Sail           
 18O08 :096 Sail           Sailing lessons, day 1
-18O07 .481 Weekly         
+18O07 !481 Weekly         
 18O06 .473 Weekly         
 18O05
 18O04 .155 Polyverse      
@@ -49,7 +50,7 @@ DATE  DATA NAME           EXTRA                    END
 18N10 .253 Monolith       Voidlinux setup
 18N09 :453 Obelisk        Custom mobile sounds
 18N08 .441 TW             
-18N07 .482 Weekly         
+18N07 !482 Weekly         
 18N06 
 18N05 ^097 AX             Anime Expo 2018
 18N04 .381 Attire         
@@ -59,18 +60,18 @@ DATE  DATA NAME           EXTRA                    END
 18M14 .152 Polyverse      
 18M13 .183 Roundup        June roundup
 18M12 .043 Nutrition      Staple ingredients
-18M11 .482 Weekly         
+18M11 !482 Weekly         
 18M10 .382 Hlupuplok      
 18M09 
 18M08 
 18M07 
-18M06 .481 Weekly         
+18M06 !481 Weekly         
 18M05 .162 Nevin          
 18M04 .171 Hlupuplok      
 18M03 .173 Hlupuplok      
 18M02 .163 Nevin          
 18M01 
-18L14 .482 Weekly         
+18L14 !482 Weekly         
 18L13 !384 Hlupuplok      Glyph update
 18L12 
 18L11 .323 Doodle         
