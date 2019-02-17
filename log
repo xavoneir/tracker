@@ -1,5 +1,21 @@
 DATE  DATA NAME           EXTRA                    END
 
+19D05 .383 Revindth       Compiled logo & release
+19D04 .362 Revindth       Completed logo
+19D03 .055 Xavoneir       
+19D02 .064 Revindth       Name
+19D01 .144 Omniontia      
+19C14 .053 Xavoneir       
+19C13 
+19C12 
+19C11 
+19C10 
+19C09 
+19C08 
+19C07 
+19C06 .154 Omniontia      
+19C05 .054 Xavoneir       Realized deep fears
+19C04 .053 Xavoneir       
 19C03 .183 Roundup        Nov, Dec, Jan
 19C02 .062 Omniontia
 19C01 
@@ -12,14 +28,14 @@ DATE  DATA NAME           EXTRA                    END
 19B08 .063 Rendtek        
 19B07 .342 Omniontia      
 19B06 .344 Omniontia      Cover work
-19B05 .365 Rendtek        Logo
+19B05 .365 Revindth       Logo start
 19B04 
-19B03
-19B02
-19B01
+19B03 
+19B02 
+19B01 
 19A14 
-19A13
-19A12
+19A13 
+19A12 
 19A11 
 19A10 
 19A09 
@@ -195,7 +211,7 @@ DATE  DATA NAME           EXTRA                    END
 18O08 :096 Sail           Sailing lessons, day 1
 18O07 !481 Weekly         
 18O06 .473 Weekly         
-18O05
+18O05 
 18O04 .155 Polyverse      
 18O03 .373 Waves          
 18O02 :242 Teensy         
