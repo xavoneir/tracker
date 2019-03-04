@@ -1,5 +1,6 @@
 DATE  DATA NAME           EXTRA                    END
 
+19E06 .174 Polyverse      Finalizing hiatus
 19E05 .065 Xavoneir       Combat deep fears
 19E04 .074 Xavoneir       Plans to fight
 19E03
@@ -75,7 +76,7 @@ DATE  DATA NAME           EXTRA                    END
 18Z04                     
 18Z03 .433 Xavoneir       Misc branding cleanup
 18Z02 .033 Xavoneir       
-18Z01 .362 Waves          
+18Z01 .362 Ferrofluid     
 18Y14 
 18Y13 
 18Y12 
@@ -159,7 +160,7 @@ DATE  DATA NAME           EXTRA                    END
 18T04 .051 Xavoneir       
 18T03 .422 Doodle         
 18T02 .452 Omniontia      
-18T01 .383 Waves          Solubility tests
+18T01 .383 Ferrofluid     Solubility tests
 18S14 .054 Xavoneir       Xavoneir 1st anniversary
 18S13 !482 Weekly         
 18S12 .385 Xavoneir       Heavy icon
@@ -217,7 +218,7 @@ DATE  DATA NAME           EXTRA                    END
 18P02 .221 Xevience       
 18P01 .244 Log            Parser and naming
 18O14 :244 Log            Formatting setup
-18O13 .362 Waves          
+18O13 .362 Ferrofluid     
 18O12 .096 Sail           
 18O11 .096 Sail           
 18O10 .096 Sail           
@@ -227,11 +228,11 @@ DATE  DATA NAME           EXTRA                    END
 18O06 .473 Weekly         
 18O05 
 18O04 .155 Polyverse      
-18O03 .373 Waves          
+18O03 .373 Ferrofluid     
 18O02 :242 Teensy         
 18O01 .164 Nevin          
-18N14 !364 Waves          Experiments with waves
-18N13 :355 Waves          
+18N14 !364 Ferrofluid     Experiments with ferrofluid
+18N13 :355 Ferrofluid          
 18N12 :292 Streaming      First livestream
 18N11 .254 Monolith       
 18N10 .253 Monolith       Voidlinux setup
