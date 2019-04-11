@@ -1,6 +1,9 @@
-DATE  DATA NAME           EXTRA                    END
+DATE  DATA NAME           EXTRA                    IMG END
 
-19G13
+19H02 .173 Doodle         Updating characters
+19H01 .042 Xavoneir       
+19G14 
+19G13 .352 Doodle 
 19G12 .152 Doodle         
 19G11 .043 Xavoneir       
 19G10 .351 Doodle         
@@ -48,7 +51,7 @@ DATE  DATA NAME           EXTRA                    END
 19D09 .443 Nowhere        
 19D08 .173 Nowhere        Improving written lore
 19D07 .053 Revindth       
-19D06 .385 Omniontia      Release
+19D06 !385 Omniontia      Release
 19D05 .383 Revindth       Compiled logo & release
 19D04 .362 Revindth       Completed logo
 19D03 .055 Xavoneir       
